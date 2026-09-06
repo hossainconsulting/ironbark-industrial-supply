@@ -50,7 +50,42 @@ reason, and the requirement it traces to.
       seeding — see `03-admin-sunrise/seed/00-purge-sample-data.apex` for the
       pattern.
 
+## For recruiters and agencies
+
+**What this repository evidences:** Sales Cloud Consultant discipline — discovery before
+features. A stage model, territory design or forecast hierarchy proposed before the
+discovery write-up exists is the wrong artefact, and that rule is enforced here.
+
+**State as at 06/09/2026:** Scoped; org provisioned and locale corrected. Currency locale
+and sample-data purge are outstanding before any Opportunity data is seeded. No sprint has
+been built yet, and this README will say so until one has.
+
+**Read these first:**
+
+1. [`deliverables/build-log.md`](deliverables/build-log.md) — the record so far, including the org audit
+2. [`CLAUDE.md`](CLAUDE.md) — the engagement rules and the seed-data-must-contain-the-mess principle
+
+**How to verify:** every change is in the build log with its date and the requirement it
+traces to; corrections are appended, never edited over. The
+[skill-to-evidence map](https://portfolio.hossainconsulting.com/#evidence) on the portfolio shows where each certification is
+applied, and the [hiring page](https://portfolio.hossainconsulting.com/#hire) says what I am open to.
+
 ---
 
 Built by [Hemayet Hossain](https://github.com/hossainconsulting) · Sydney, Australia
 Portfolio: [portfolio.hossainconsulting.com](https://portfolio.hossainconsulting.com)
+
+---
+
+## Connect
+
+Built by **Hemayet Hossain**, Salesforce administrator and implementation
+consultant, Sydney, Australia. This is one of eight projects
+published in full; the complete record and the certification track are on the
+portfolio.
+
+[Portfolio](https://portfolio.hossainconsulting.com/?utm_source=github&utm_medium=readme&utm_campaign=ironbark-industrial-supply) ·
+[All links](https://portfolio.hossainconsulting.com/links) ·
+[GitHub](https://github.com/hossainconsulting) ·
+[LinkedIn](https://www.linkedin.com/company/hossain-consulting) ·
+[Instagram](https://www.instagram.com/hossainconsulting/)
