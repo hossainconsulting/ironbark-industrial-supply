@@ -23,13 +23,14 @@ orders.
 
 | Folder | Contents |
 |---|---|
-| `force-app/` | Salesforce metadata retrieved from the org — the configuration itself |
+| `force-app/` | Salesforce metadata, when committed; currently a placeholder where no configuration files are present. |
 | `seed/` | Apex scripts that build the starting data, including its deliberate defects |
 | `deliverables/` | The written work: design docs, SOPs, analyses, runbooks |
 | `evidence/` | Before/after screenshots and test results per phase |
 
-`deliverables/` is the substance. The configuration proves the clicks happened;
-the documents prove the thinking did.
+`deliverables/` contains the written project work. The `force-app/` placeholder
+does not evidence implemented configuration; review dated deliverables and
+verification records for the work actually completed.
 
 ## Progress
 
@@ -47,7 +48,7 @@ reason, and the requirement it traces to.
       Opportunity data, or every amount is wrong and the forecasting work is
       built on it.
 - [ ] Stock Salesforce sample data still present (13 Accounts). Purge before
-      seeding — see `03-admin-sunrise/seed/00-purge-sample-data.apex` for the
+      seeding — see [SunRise sample-data purge script](https://github.com/hossainconsulting/salesforce-sunrise-solar/blob/main/seed/00-purge-sample-data.apex) for the
       pattern.
 
 ---
