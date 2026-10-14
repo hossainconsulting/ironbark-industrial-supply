@@ -6,6 +6,7 @@
 
 **Certification track:** Sales Cloud Consultant (Sales-Con-201)
 **Salesforce org:** Developer Edition (CLI alias `ironbark`)
+**Lab:** working copy maintained on `salesforce-dev` (Ubuntu 24.04 LTS, VirtualBox VM on my own hardware). `salesforce-dev` is my role name for the Ubuntu lab.
 **Scope:** 10 sprints | discovery, sales process design, territory management, forecasting, quoting, lead-to-opportunity, Agentforce for Sales, data quality, adoption and enablement, executive dashboard
 
 ## The brief
